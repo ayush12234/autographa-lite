@@ -156,3 +156,6 @@ div.tabs a:focus, .active {background-color: #ccc; color: rgba(11,130,255,1);}
 
 // #input-verse div span{direction: rtl;}
 @media screen and (max-width: 760px) {.rmvflex{display: block !important;}}
+// .verse-num {direction: rtl !important;}
+#input-verse span:nth-child(2){margin-right: 10px;}
+.col-ref span:nth-child(2){margin-right: 10px;}
